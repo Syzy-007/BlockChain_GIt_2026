@@ -1,5 +1,5 @@
 # 从 Fork 开始完成第一次 PR
-
+compare 在哪儿？
 ## 1. Fork 仓库
 
 打开 [原仓库](https://github.com/rain-lei/BlockChain_GIt_2026)，点击右上角 **Fork → Create fork**，将仓库复制到自己的 GitHub 账号下。
